@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]) {
-	int x = 3;
-	int y = 5;
-	int z = 0;
-	printf("%d", x*y - x/2);	
+int main() {
+	int variable[3] = {3, 5, 0};
+    variable[2] = (variable[0]*variable[1] - variable[0]/2);
+	printf("%d ", variable[2]);
+	return 0;
 }
 
