@@ -1,2 +1,1 @@
-# The largest heading
-EECS 349&444_HW2_Part(3)
+# EECS 349&444_HW2_Part(3)
