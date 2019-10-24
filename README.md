@@ -1,3 +1,3 @@
 # EECS-444
 
-HW for EECS 444
+HW for Computer Security
